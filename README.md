@@ -11,9 +11,9 @@
 ## 🧠 About me
 
 - 🎓 12th grade — **Técnico de Informática** @ Agrupamento de Escolas Rainha Dona Leonor
-- ⚔️ Building **Fighter's Path** — a Pokémon-style RPG set in Portugal where you train martial arts
+- ⚔️ Building **Fighter's Path**
 - 🥋 Passionate about martial arts — it shows up in literally every project I make
-- 🔥 Got hooked on C++ through **SoulsPlusPlus**, my turn-based RPG engine
+- 🔥 Passionate about  C/C++
 - 🌱 Currently learning **Django** and deepening **FastAPI**
 - 🇵🇹 Based in Portugal — Lisboa
 
@@ -64,11 +64,6 @@
 
 ### 🗡️ SamuraiArmor
 > PHP/MySQL e-commerce store for samurai gear. Full cart, checkout, session management & crimson/gold branding.
-
-### 🤖 MediBot
-> Portuguese AI medical chatbot with Flask backend, Decision Tree classifier & 5 REST endpoints.
-
----
 
 ## 📊 GitHub stats
 
