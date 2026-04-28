@@ -61,7 +61,7 @@
 ### 🗡️ SamuraiArmor
 > Java Swing desktop app for a samurai armor store — manage stock, create and view orders.  
 > **Java (JDK 24) · NetBeans · Microsoft Access (.accdb)** — products include Capacete, Kimono, Caneleiras, Luvas, Protetor Bucal
-
+<!--
 ## 📊 GitHub stats
 
 <div align="center">
@@ -73,7 +73,7 @@
 ![Streak](https://streak-stats.demolab.com?user=GuilhermeLopesMMA&theme=tokyonight&hide_border=true&background=0d1117&ring=00599C&fire=FF6B35&currStreakLabel=00599C)
 
 </div>
-
+--->
 ---
 
 ## 📫 Reach me
