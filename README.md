@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- ✦ HEADER -->
+<div align="center">
+# Hi, I'm Gui 👋
+**Full-stack dev & game maker from Portugal 🇵🇹**
 
-<!--
-**GuilhermeLopesMMA/GuilhermeLopesMMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&text=Fighter's+Path"/>
+</div>
 
-Here are some ideas to get you started:
+<!-- ✦ ABOUT -->
+## About me
+- 🎓 Técnico de Informática @ ERDL
+- ⚔️ Building Fighter's Path — a Pokémon-style martial arts RPG
+- 🥋 Passionate about martial arts & game dev
+- 🌱 Currently learning Django & FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ✦ TECH STACK -->
+## Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?...) ...
+
+<!-- ✦ STATS -->
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=YOUR_NAME&theme=tokyonight)
+
+<!-- ✦ CONTACT -->
+## Reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)] [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail)]
