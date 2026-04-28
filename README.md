@@ -48,8 +48,7 @@
 ## 🚀 Featured projects
 
 ### ⚔️ Fighter's Path
-> A Pokémon-style RPG set in Portugal — travel through Lisboa, Porto and Montijo training in real martial arts disciplines.  
-> Built with HTML/CSS/JS · 3D isometric low-poly visuals · Alpha prototype live
+> A Pokémon-style RPG set in Portugal — travel through Lisboa, Porto and Montijo training in real martial arts disciplines.
 
 ### 🥋 LFA — Lopes Fight Academy
 > Full-stack martial arts academy management platform (PAP project).  
@@ -60,7 +59,8 @@
 > OOP design · custom battle system · the project that started it all
 
 ### 🗡️ SamuraiArmor
-> PHP/MySQL e-commerce store for samurai gear. Full cart, checkout, session management & crimson/gold branding.
+> Java Swing desktop app for a samurai armor store — manage stock, create and view orders.  
+> **Java (JDK 24) · NetBeans · Microsoft Access (.accdb)** — products include Capacete, Kimono, Caneleiras, Luvas, Protetor Bucal
 
 ## 📊 GitHub stats
 
@@ -80,13 +80,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guixlopesx2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeLopesMMA)
 
 ---
 
 <div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeLopesMMA.GuilhermeLopesMMA)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:0d0d0d&height=100&section=footer" />
 
