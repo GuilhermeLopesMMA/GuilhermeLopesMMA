@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00599C&height=200&section=header&text=Guilherme&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Game%20Maker%20%7C%20Martial%20Artist&descAlignY=58&descSize=18&descColor=aaaaaa" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Building+Fighter's+Path+%E2%9A%94%EF%B8%8F;C%2B%2B+enjoyer+%7C+SoulsPlusPlus;Full-Stack+with+FastAPI+%2B+MongoDB;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 </div>
 
 ---
