@@ -36,7 +36,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -69,11 +68,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C&icon_color=00599C)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeLopesMMA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C&icon_color=00599C)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLopesMMA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00599C&fire=FF6B35&currStreakLabel=00599C)
+![Streak](https://streak-stats.demolab.com?user=GuilhermeLopesMMA&theme=tokyonight&hide_border=true&background=0d1117&ring=00599C&fire=FF6B35&currStreakLabel=00599C)
 
 </div>
 
@@ -83,13 +82,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeLopesMMA)
 
 ---
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeLopesMMA.GuilhermeLopesMMA)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:0d0d0d&height=100&section=footer" />
 
