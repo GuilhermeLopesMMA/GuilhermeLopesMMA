@@ -68,9 +68,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C&icon_color=00599C)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeLopesMMA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C&icon_color=00599C)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLopesMMA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C)
 
 ![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00599C&fire=FF6B35&currStreakLabel=00599C)
 
