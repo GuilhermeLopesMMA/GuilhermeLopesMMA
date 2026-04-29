@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:39FF14&height=200&section=header&text=Guilherme&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Future%20Game%20Developer%20%7C%20Martial%20Artist&descAlignY=58&descSize=18&descColor=cccccc" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Building+Fighter's+Path+%E2%9A%94%EF%B8%8F;C%2B%2B+enjoyer+%7C+SoulsPlusPlus;Full-Stack+with+FastAPI+%2B+MongoDB;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -13,7 +11,7 @@
 - 🎓 12th grade — **Técnico de Informática** @ Agrupamento de Escolas Rainha Dona Leonor
 - ⚔️ Building **Fighter's Path** — a Pokémon-style RPG set in Portugal where you train martial arts
 - 🥋 Passionate about martial arts — it shows up in literally every project I make
-- 🔥 Got hooked on C++ through **SoulsPlusPlus**, my turn-based RPG engine
+- 🔥 Got hooked on C++
 - 🌱 Currently learning **Django** and deepening **FastAPI**
 - 🇵🇹 Based in Portugal — Lisboa
 
@@ -66,9 +64,6 @@
 > Java Swing desktop app for a samurai armor store — manage stock, create and view orders.  
 > **Java (JDK 24) · NetBeans · Microsoft Access (.accdb)** — products include Capacete, Kimono, Caneleiras, Luvas, Protetor Bucal
 
-### 🤖 MediBot
-> Portuguese AI medical chatbot with Flask backend, Decision Tree classifier & 5 REST endpoints.
-
 ---
 
 ## 📊 GitHub stats
@@ -87,9 +82,8 @@
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guixlopesx2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeLopesMMA)
 
 ---
 
