@@ -1,6 +1,8 @@
-  <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00599C&height=200&section=header&text=Guilherme&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Future%20Game%20Developer%20%7C%20Martial%20Artist&descAlignY=58&descSize=18&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:39FF14&height=200&section=header&text=Guilherme&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Future%20Game%20Developer%20%7C%20Martial%20Artist&descAlignY=58&descSize=18&descColor=cccccc" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Building+Fighter's+Path+%E2%9A%94%EF%B8%8F;C%2B%2B+enjoyer+%7C+SoulsPlusPlus;Full-Stack+with+FastAPI+%2B+MongoDB;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,9 +11,9 @@
 ## 🧠 About me
 
 - 🎓 12th grade — **Técnico de Informática** @ Agrupamento de Escolas Rainha Dona Leonor
-- ⚔️ Building **Fighter's Path**
+- ⚔️ Building **Fighter's Path** — a Pokémon-style RPG set in Portugal where you train martial arts
 - 🥋 Passionate about martial arts — it shows up in literally every project I make
-- 🔥 Passionate about  C/C++
+- 🔥 Got hooked on C++ through **SoulsPlusPlus**, my turn-based RPG engine
 - 🌱 Currently learning **Django** and deepening **FastAPI**
 - 🇵🇹 Based in Portugal — Lisboa
 
@@ -34,6 +36,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,7 +51,8 @@
 ## 🚀 Featured projects
 
 ### ⚔️ Fighter's Path
-> A Pokémon-style RPG set in Portugal — travel through Lisboa, Porto and Montijo training in real martial arts disciplines.
+> A Pokémon-style RPG set in Portugal — travel through Lisboa, Porto and Montijo training in real martial arts disciplines.  
+> Built with HTML/CSS/JS · 3D isometric low-poly visuals · Alpha prototype live
 
 ### 🥋 LFA — Lopes Fight Academy
 > Full-stack martial arts academy management platform (PAP project).  
@@ -61,30 +65,38 @@
 ### 🗡️ SamuraiArmor
 > Java Swing desktop app for a samurai armor store — manage stock, create and view orders.  
 > **Java (JDK 24) · NetBeans · Microsoft Access (.accdb)** — products include Capacete, Kimono, Caneleiras, Luvas, Protetor Bucal
-<!--
+
+### 🤖 MediBot
+> Portuguese AI medical chatbot with Flask backend, Decision Tree classifier & 5 REST endpoints.
+
+---
+
 ## 📊 GitHub stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeLopesMMA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C&icon_color=00599C)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C&icon_color=00599C)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLopesMMA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00599C)
 
-![Streak](https://streak-stats.demolab.com?user=GuilhermeLopesMMA&theme=tokyonight&hide_border=true&background=0d1117&ring=00599C&fire=FF6B35&currStreakLabel=00599C)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00599C&fire=FF6B35&currStreakLabel=00599C)
 
 </div>
---->
+
 ---
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guixlopesx2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:0d0d0d&height=100&section=footer" />
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0d0d0d&height=100&section=footer" />
 
 </div>
