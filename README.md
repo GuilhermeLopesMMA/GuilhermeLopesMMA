@@ -13,7 +13,7 @@
 - 🥋 Passionate about martial arts — it shows up in literally every project I make
 - 🔥 Got hooked on C++
 - 🌱 Currently learning **Django** and deepening **FastAPI**
-- 🇵🇹 Based in Portugal — Lisboa
+- 🇵🇹 Based in Portugal — Montijo
 
 ---
 
